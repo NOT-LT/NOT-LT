@@ -28,18 +28,4 @@ public class NOT_LT
 ```
 
 
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NOT-LT&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NOT-LT&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![NOT LT' Activity Graph](https://activity-graph.herokuapp.com/graph?username=NOT-LT&custom_title=NOT-LT%20ACTIVITY&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Github.com/NOT-LT)
-
 ------
