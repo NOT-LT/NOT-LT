@@ -19,8 +19,8 @@
 public class NOT_LT
 {
   static void Main(){
-    this.Name = "LT";
-    self.IG = "@30_X";
+    this.Name = "TAHA ALJAMRI";
+    self.IG = "@zdlk";
     self.location = "Bahrain";
   }  
 }
